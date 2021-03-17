@@ -1,0 +1,16 @@
+.pomidor {
+    justify-content: center;
+    line-height: 1.6em;
+    padding-left: 0px;
+    padding-top: 12px;
+    font-family: 'Redressed', cursive;
+
+    /* */
+
+
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
